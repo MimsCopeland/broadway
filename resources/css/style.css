@@ -13,3 +13,8 @@ h1 {
   font-size: 70px;
   font-weight: bold;
 }
+
+#white {
+  color: white !important;
+  font-size: i8px;
+}
