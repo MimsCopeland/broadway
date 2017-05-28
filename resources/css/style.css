@@ -14,7 +14,7 @@ h1 {
   font-weight: bold;
 }
 
-#white {
+#white p{
   color: white;
   font-size: 18px !important;
 }
@@ -33,7 +33,7 @@ p {
   font-size: 14px;
 }
 
-#footer {
+#footer nav{
   background-color: dimgray;
   text-align: left;
   font-size: 11px
