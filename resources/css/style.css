@@ -16,7 +16,7 @@ h1 {
 
 #white {
   color: white;
-  font-size: 18px;
+  font-size: 18px !important;
 }
 
 h2 {
@@ -37,7 +37,7 @@ p {
   background-color: dimgray;
   text-align: left;
   font-size: 11px
-  color: white;
+  color: white !important;
 }
 
 a {
